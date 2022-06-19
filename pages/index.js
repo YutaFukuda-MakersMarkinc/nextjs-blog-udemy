@@ -49,7 +49,8 @@ export default function Home({ allPostsData }) {
         </title>
       </Head>
       <p>
-        各ページの内容が、Layoutのchildrenに挿入される
+        各ページの内容が、Layoutのchildrenに挿入される。<br />
+        Next.JSを使用したマイクロブログの作成
       </p>
 
       <section>
