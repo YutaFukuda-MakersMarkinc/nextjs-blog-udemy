@@ -1,7 +1,7 @@
 //nextjsのライブラリを読み込み
 import Head from 'next/head'
 import Image from 'next/image'
-import Link from 'next/Link'
+import Link from 'next/link'
 
 //作成したレイアウトファイルを読み込み
 import Layout, { siteTitle } from '../components/Layout'
